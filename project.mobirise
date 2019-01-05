@@ -1195,7 +1195,8 @@
               "font-style": "italic"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#232323"
             }
           },
           "_name": "header9",
