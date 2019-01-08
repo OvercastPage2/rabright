@@ -2427,31 +2427,26 @@ body {
     width: 100% !important;
   }
 }
-.cid-rdusXts5oe {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
-.cid-rduE79Q4BF {
+.cid-reBQzrtcQy {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rduE79Q4BF .mbr-slider .carousel-control {
+.cid-reBQzrtcQy .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-rduE79Q4BF .mbr-slider .carousel-control-prev {
+.cid-reBQzrtcQy .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-rduE79Q4BF .mbr-slider .carousel-control-next {
+.cid-reBQzrtcQy .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-rduE79Q4BF .mbr-slider .modal-body .close {
+.cid-reBQzrtcQy .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-rduE79Q4BF .mbr-gallery-item > div::before {
+.cid-reBQzrtcQy .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -2464,80 +2459,13 @@ body {
   transition: 0.2s opacity ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rduE79Q4BF .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-reBQzrtcQy .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-rduE79Q4BF .mbr-gallery-item > div:hover:before {
-  opacity: 0.6 !important;
-}
-.cid-rduE79Q4BF .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-rduE79Q4BF .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.6;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-rduDID9qtc {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
-.cid-rdusV8NDnT {
-  padding-top: 75px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rdusV8NDnT .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-rdusV8NDnT .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-rdusV8NDnT .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-rdusV8NDnT .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-rdusV8NDnT .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-rdusV8NDnT .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-rdusV8NDnT .mbr-gallery-item > div:hover:before {
+.cid-reBQzrtcQy .mbr-gallery-item > div:hover:before {
   opacity: 0.7 !important;
 }
-.cid-rdusV8NDnT .mbr-gallery-title {
+.cid-reBQzrtcQy .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -2547,141 +2475,7 @@ body {
   color: #fff;
   z-index: 2;
 }
-.cid-rdusV8NDnT .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-rduDO08Be7 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
-.cid-rduE5zlnUg {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rduE5zlnUg .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-rduE5zlnUg .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-rduE5zlnUg .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-rduE5zlnUg .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-rduE5zlnUg .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-rduE5zlnUg .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-rduE5zlnUg .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-rduE5zlnUg .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-rduE5zlnUg .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-rduEbzq91Y {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
-.cid-rduEaJI510 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rduEaJI510 .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-rduEaJI510 .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-rduEaJI510 .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-rduEaJI510 .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-rduEaJI510 .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-rduEaJI510 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-rduEaJI510 .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-rduEaJI510 .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-rduEaJI510 .mbr-gallery-title:before {
+.cid-reBQzrtcQy .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
