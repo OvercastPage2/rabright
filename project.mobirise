@@ -640,7 +640,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Mis-Took",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Magician",
@@ -660,13 +660,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/background4.jpg",
-                "thumb": "@THEME_PATH@/components/_images/background4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/detective-rev-4-1242x2208.png",
+                "thumb": "@PROJECT_PATH@/assets/images/detective-rev-4-1242x2208-530x1259.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "Detective Rev",
+                "active": true
               },
               {
                 "tags": "Amalgamation",
