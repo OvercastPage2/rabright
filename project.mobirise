@@ -643,7 +643,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Mis-Took",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Magician",
@@ -669,19 +669,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Detective Rev",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Magician",
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/madame-brainstorm-1242x2208.png",
-                "thumb": "@PROJECT_PATH@/assets/images/madame-brainstorm-1242x2208-800x1132.png",
+                "image": "@PROJECT_PATH@/assets/images/madame-brainstorm-3-1242x2208.png",
+                "thumb": "@PROJECT_PATH@/assets/images/madame-brainstorm-3-1242x2208-800x1222.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Madame Brainstorm",
                 "active": false
               },
               {
