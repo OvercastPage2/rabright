@@ -643,7 +643,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Mis-Took",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Magician",
@@ -676,13 +676,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/madame-brainstorm-3-1242x2208.png",
-                "thumb": "@PROJECT_PATH@/assets/images/madame-brainstorm-3-1242x2208-800x1222.png",
+                "image": "@PROJECT_PATH@/assets/images/madame-brainstorm-4-1242x2208.png",
+                "thumb": "@PROJECT_PATH@/assets/images/madame-brainstorm-4-1242x2208-800x1161.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Madame Brainstorm",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Amalgamation",
