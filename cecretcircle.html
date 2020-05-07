@@ -24,11 +24,13 @@
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   <script>
-  var Clicks = 0 ;
-  function AddClick(){
-  Clicks = Clicks + 1;
-  document.getElementById('CountedClicks').innerHTML = Clicks + ' Hits';
-  }
+  var app = angular.module("myApp", []);
+  app.controller('check', function ($scope) {
+    $scope.counter = 0;
+    $scope.count = function (inc) {
+        $scope.counter += inc;
+    };
+  });
   </script>
 
   
@@ -150,8 +152,10 @@
             <div class="col-sm-6 col-md-4 col-lg-3 item gallery-image">
                 <div class="item-wrapper">
                     <img class="w-100" src="assets/images/untitled-artwork-2.png" alt="" data-slide-to="0" data-target="#rYgS3LSyQP">
-<span id="CountedClicks">0 Hits</span><br>
-<button style="background-color:green" onclick="AddClick()">Count Your Hit</button>
+<div ng-app="myApp" ng-controller="check">
+    <button id='1' ng-click="count(1)">1</button>
+    <label>Total Count : {{counter}}</label>
+</div>
                 </div>
             </div><div class="col-sm-6 col-md-4 col-lg-3 item gallery-image">
                 <div class="item-wrapper">
